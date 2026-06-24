@@ -41,21 +41,21 @@
   }
   .thumbs{
     display:flex;flex-direction:column;gap:12px;
-    max-height:560px;overflow:auto;padding-right:2px;
+    overflow:visible;
   }
   .thumb{
     width:78px;height:96px;flex:0 0 auto;border-radius:12px;overflow:hidden;
-    border:1.5px solid var(--line);background:var(--ink-2);
-    padding:0;cursor:pointer;transition:border-color .22s,transform .22s,box-shadow .22s;
+    border:none;background:var(--ink-2);opacity:.5;
+    padding:0;cursor:pointer;transition:opacity .22s,transform .22s;
   }
   .thumb img{width:100%;height:100%;object-fit:cover;object-position:center top}
-  .thumb:hover{border-color:rgba(10,10,11,.4);transform:translateY(-2px)}
-  .thumb.active{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold)}
+  .thumb:hover{opacity:1;transform:translateY(-2px)}
+  .thumb.active{opacity:1}
 
   .stage{
     position:relative;border-radius:var(--r);overflow:hidden;
     background:var(--ink-2);
-    aspect-ratio:3/4;border:1px solid var(--line-soft);
+    aspect-ratio:3/4;
     box-shadow:var(--shadow-sm);cursor:zoom-in;
   }
   .stage img{

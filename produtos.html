@@ -158,16 +158,9 @@
   #grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
   @media(min-width:1280px){#grid{grid-template-columns:repeat(4,1fr)}}
   /* o card inteiro é link; tira sublinhado, mantém o visual da home */
-  #grid .card{text-decoration:none;color:inherit;cursor:pointer}
+  #grid .card{text-decoration:none;color:inherit;cursor:pointer;border:none}
   #grid .card-cat{font-size:.72rem;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--gold)}
-  /* "Ver produto" — link de texto discreto, on-brand */
-  #grid .btn-ver{
-    align-self:flex-start;margin-top:2px;
-    font-family:var(--body);font-size:.82rem;font-weight:600;letter-spacing:.02em;
-    color:var(--ink);border-bottom:1.5px solid var(--gold);padding-bottom:1px;
-    transition:color .2s,border-color .2s;
-  }
-  #grid .card:hover .btn-ver{color:var(--gold-2)}
+  /* "Ver produto": herda o botão .btn-ver da home (styles.css) */
 
   /* estado vazio */
   .cat-empty{
