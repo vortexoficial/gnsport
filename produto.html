@@ -281,7 +281,7 @@
 <header class="site" id="header">
   <div class="wrap nav">
     <a href="index.html" class="brand" aria-label="GN Sports - página inicial">
-      <img src="assets/brand/logo.png" alt="GN Sports" class="brand-logo">
+      <img src="assets/brand/logo.webp" alt="GN Sports" class="brand-logo">
     </a>
     <nav class="menu" aria-label="Categorias">
       <a href="produtos.html?tipo=selecoes">Seleções</a>
@@ -308,7 +308,7 @@
 <aside class="mobile-menu" id="mobileMenu" aria-label="Menu de navegação">
   <div class="mm-top">
     <a href="index.html" class="brand" aria-label="GN Sports">
-      <img src="assets/brand/logo.png" alt="GN Sports" style="height:28px;width:auto;display:block">
+      <img src="assets/brand/logo.webp" alt="GN Sports" style="height:28px;width:auto;display:block">
     </a>
     <button class="mm-close" id="mmClose" aria-label="Fechar menu">×</button>
   </div>
@@ -362,7 +362,7 @@
 
       <div class="foot-brand">
         <a class="foot-logo" href="index.html" aria-label="GN Sports — página inicial">
-          <img src="assets/brand/logo.png" alt="GN Sports" />
+          <img src="assets/brand/logo.webp" alt="GN Sports" />
         </a>
         <strong class="foot-name">GN Sports</strong>
         <p class="foot-desc">Camisas de times, seleções e itens esportivos com atendimento direto.</p>
@@ -540,7 +540,7 @@
 
   // ---------- normalizar dados ----------
   var images = (product.images && product.images.length) ? product.images.slice() : [];
-  if(!images.length) images = ['assets/brand/logo.png'];
+  if(!images.length) images = ['assets/brand/logo.webp'];
   var sizes = (product.sizes && product.sizes.length) ? product.sizes : ['Único'];
   var isSingle = (sizes.length === 1 && /^[uú]nico$/i.test(sizes[0]));
   var hasOld = (typeof product.oldPrice === 'number' && product.oldPrice > product.price);
@@ -825,7 +825,7 @@
     var relCards = '';
     for(var c=0;c<related.length;c++){
       var rcp = related[c];
-      var img1 = (rcp.images && rcp.images[0]) ? rcp.images[0] : 'assets/brand/logo.png';
+      var img1 = (rcp.images && rcp.images[0]) ? rcp.images[0] : 'assets/brand/logo.webp';
       var img2 = (rcp.images && rcp.images[1]) ? rcp.images[1] : img1;
       var rName = esc(rcp.name);
       var rOld = (typeof rcp.oldPrice === 'number' && rcp.oldPrice > rcp.price)

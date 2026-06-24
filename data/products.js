@@ -17,10 +17,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "5/1.jpg",
-      "5/2.jpg",
-      "5/3.jpg",
-      "5/4.jpg"
+      "5/1.webp",
+      "5/2.webp",
+      "5/3.webp",
+      "5/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -41,10 +41,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "6/1.jpg",
-      "6/2.jpg",
-      "6/3.jpg",
-      "6/4.jpg"
+      "6/1.webp",
+      "6/2.webp",
+      "6/3.webp",
+      "6/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -65,10 +65,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "7/1.jpg",
-      "7/2.jpg",
-      "7/3.jpg",
-      "7/4.jpg"
+      "7/1.webp",
+      "7/2.webp",
+      "7/3.webp",
+      "7/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -89,10 +89,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "8/1.jpg",
-      "8/2.jpg",
-      "8/3.jpg",
-      "8/4.jpg"
+      "8/1.webp",
+      "8/2.webp",
+      "8/3.webp",
+      "8/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -113,10 +113,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "9/1.jpg",
-      "9/2.jpg",
-      "9/3.jpg",
-      "9/4.jpg"
+      "9/1.webp",
+      "9/2.webp",
+      "9/3.webp",
+      "9/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -137,9 +137,9 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "10/1.jpg",
-      "10/2.jpg",
-      "10/3.jpg"
+      "10/1.webp",
+      "10/2.webp",
+      "10/3.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -160,9 +160,9 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "11/1.jpg",
-      "11/2.jpg",
-      "11/3.jpg"
+      "11/1.webp",
+      "11/2.webp",
+      "11/3.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -183,10 +183,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "12/1.jpg",
-      "12/2.jpg",
-      "12/3.jpg",
-      "12/4.jpg"
+      "12/1.webp",
+      "12/2.webp",
+      "12/3.webp",
+      "12/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -207,10 +207,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "13/1.jpg",
-      "13/2.jpg",
-      "13/3.jpg",
-      "13/4.jpg"
+      "13/1.webp",
+      "13/2.webp",
+      "13/3.webp",
+      "13/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -231,10 +231,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "14/1.jpg",
-      "14/2.jpg",
-      "14/3.jpg",
-      "14/4.jpg"
+      "14/1.webp",
+      "14/2.webp",
+      "14/3.webp",
+      "14/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -255,10 +255,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "15/1.jpg",
-      "15/2.jpg",
-      "15/3.jpg",
-      "15/4.jpg"
+      "15/1.webp",
+      "15/2.webp",
+      "15/3.webp",
+      "15/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -279,10 +279,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "16/1.jpg",
-      "16/2.jpg",
-      "16/3.jpg",
-      "16/4.jpg"
+      "16/1.webp",
+      "16/2.webp",
+      "16/3.webp",
+      "16/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -303,9 +303,9 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "17/1.jpg",
-      "17/2.jpg",
-      "17/3.jpg"
+      "17/1.webp",
+      "17/2.webp",
+      "17/3.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -326,10 +326,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "18/1.jpg",
-      "18/2.jpg",
-      "18/3.jpg",
-      "18/4.jpg"
+      "18/1.webp",
+      "18/2.webp",
+      "18/3.webp",
+      "18/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -350,10 +350,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "19/1.jpg",
-      "19/2.jpg",
-      "19/3.jpg",
-      "19/4.jpg"
+      "19/1.webp",
+      "19/2.webp",
+      "19/3.webp",
+      "19/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -374,10 +374,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "20/1.jpg",
-      "20/2.jpg",
-      "20/3.jpg",
-      "20/4.jpg"
+      "20/1.webp",
+      "20/2.webp",
+      "20/3.webp",
+      "20/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -398,10 +398,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "21/1.jpg",
-      "21/2.jpg",
-      "21/3.jpg",
-      "21/4.jpg"
+      "21/1.webp",
+      "21/2.webp",
+      "21/3.webp",
+      "21/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -422,10 +422,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "22/1.jpg",
-      "22/2.jpg",
-      "22/3.jpg",
-      "22/4.jpg"
+      "22/1.webp",
+      "22/2.webp",
+      "22/3.webp",
+      "22/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -446,10 +446,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "23/1.jpg",
-      "23/2.jpg",
-      "23/3.jpg",
-      "23/4.jpg"
+      "23/1.webp",
+      "23/2.webp",
+      "23/3.webp",
+      "23/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -470,10 +470,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "24/1.jpg",
-      "24/2.jpg",
-      "24/3.jpg",
-      "24/4.jpg"
+      "24/1.webp",
+      "24/2.webp",
+      "24/3.webp",
+      "24/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -494,10 +494,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "25/1.jpg",
-      "25/2.jpg",
-      "25/3.jpg",
-      "25/4.jpg"
+      "25/1.webp",
+      "25/2.webp",
+      "25/3.webp",
+      "25/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -518,10 +518,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "26/1.jpg",
-      "26/2.jpg",
-      "26/3.jpg",
-      "26/4.jpg"
+      "26/1.webp",
+      "26/2.webp",
+      "26/3.webp",
+      "26/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -542,10 +542,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "27/1.jpg",
-      "27/2.jpg",
-      "27/3.jpg",
-      "27/4.jpg"
+      "27/1.webp",
+      "27/2.webp",
+      "27/3.webp",
+      "27/4.webp"
     ],
     "badge": null,
     "description": "Camisa de torcedor do seu clube do coração, tecido dry respirável, escudo bordado e acabamento premium. Perfeita para o estádio ou para o dia a dia. Entrega para todo o Brasil e atendimento pelo WhatsApp."
@@ -566,10 +566,10 @@ window.PRODUCTS = [
       "GG"
     ],
     "images": [
-      "28/1.jpg",
-      "28/2.jpg",
-      "28/3.jpg",
-      "28/4.jpg"
+      "28/1.webp",
+      "28/2.webp",
+      "28/3.webp",
+      "28/4.webp"
     ],
     "badge": null,
     "description": "Camisa oficial de torcedor da seleção, com tecido leve e respirável, escudo e detalhes bordados. Caimento confortável para vestir nos jogos ou no dia a dia. Entrega para todo o Brasil e atendimento direto pelo WhatsApp."
@@ -587,10 +587,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "29/1.jpg",
-      "29/2.jpg",
-      "29/3.jpg",
-      "29/4.jpg"
+      "29/1.webp",
+      "29/2.webp",
+      "29/3.webp",
+      "29/4.webp"
     ],
     "badge": null,
     "description": "Boné de qualidade premium, com ajuste confortável e acabamento durável. Combina com qualquer look esportivo e casual."
@@ -608,10 +608,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "30/1.jpg",
-      "30/2.jpg",
-      "30/3.jpg",
-      "30/4.jpg"
+      "30/1.webp",
+      "30/2.webp",
+      "30/3.webp",
+      "30/4.webp"
     ],
     "badge": null,
     "description": "Bolsa esportiva resistente e espaçosa, ideal para o treino, a viagem ou o dia a dia, com compartimentos práticos."
@@ -629,10 +629,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "31/1.jpg",
-      "31/2.jpg",
-      "31/3.jpg",
-      "31/4.jpg"
+      "31/1.webp",
+      "31/2.webp",
+      "31/3.webp",
+      "31/4.webp"
     ],
     "badge": null,
     "description": "Bolsa esportiva resistente e espaçosa, ideal para o treino, a viagem ou o dia a dia, com compartimentos práticos."
@@ -650,9 +650,9 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "32/1.jpg",
-      "32/2.jpg",
-      "32/3.jpg"
+      "32/1.webp",
+      "32/2.webp",
+      "32/3.webp"
     ],
     "badge": null,
     "description": "Bolsa esportiva resistente e espaçosa, ideal para o treino, a viagem ou o dia a dia, com compartimentos práticos."
@@ -670,9 +670,9 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "33/1.jpg",
-      "33/2.jpg",
-      "33/3.jpg"
+      "33/1.webp",
+      "33/2.webp",
+      "33/3.webp"
     ],
     "badge": null,
     "description": "Óculos esportivo com proteção e conforto, ideal para natação e atividades ao ar livre."
@@ -690,10 +690,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "34/1.jpg",
-      "34/2.jpg",
-      "34/3.jpg",
-      "34/4.jpg"
+      "34/1.webp",
+      "34/2.webp",
+      "34/3.webp",
+      "34/4.webp"
     ],
     "badge": null,
     "description": "Calçado esportivo de alta performance, com conforto e durabilidade para treinos, jogos e uso casual."
@@ -711,10 +711,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "35/1.jpg",
-      "35/2.jpg",
-      "35/3.jpg",
-      "35/4.jpg"
+      "35/1.webp",
+      "35/2.webp",
+      "35/3.webp",
+      "35/4.webp"
     ],
     "badge": null,
     "description": "Boné de qualidade premium, com ajuste confortável e acabamento durável. Combina com qualquer look esportivo e casual."
@@ -732,10 +732,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "36/1.jpg",
-      "36/2.jpg",
-      "36/3.jpg",
-      "36/4.jpg"
+      "36/1.webp",
+      "36/2.webp",
+      "36/3.webp",
+      "36/4.webp"
     ],
     "badge": null,
     "description": "Bolsa esportiva resistente e espaçosa, ideal para o treino, a viagem ou o dia a dia, com compartimentos práticos."
@@ -753,9 +753,9 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "37/1.jpg",
-      "37/2.jpg",
-      "37/3.jpg"
+      "37/1.webp",
+      "37/2.webp",
+      "37/3.webp"
     ],
     "badge": null,
     "description": "Boné de qualidade premium, com ajuste confortável e acabamento durável. Combina com qualquer look esportivo e casual."
@@ -773,10 +773,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "38/1.jpg",
-      "38/2.jpg",
-      "38/3.jpg",
-      "38/4.jpg"
+      "38/1.webp",
+      "38/2.webp",
+      "38/3.webp",
+      "38/4.webp"
     ],
     "badge": null,
     "description": "Calçado esportivo de alta performance, com conforto e durabilidade para treinos, jogos e uso casual."
@@ -794,10 +794,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "39/1.jpg",
-      "39/2.jpg",
-      "39/3.jpg",
-      "39/4.jpg"
+      "39/1.webp",
+      "39/2.webp",
+      "39/3.webp",
+      "39/4.webp"
     ],
     "badge": null,
     "description": "Calçado esportivo de alta performance, com conforto e durabilidade para treinos, jogos e uso casual."
@@ -815,10 +815,10 @@ window.PRODUCTS = [
       "Único"
     ],
     "images": [
-      "40/1.jpg",
-      "40/2.jpg",
-      "40/3.jpg",
-      "40/4.jpg"
+      "40/1.webp",
+      "40/2.webp",
+      "40/3.webp",
+      "40/4.webp"
     ],
     "badge": null,
     "description": "Calçado esportivo de alta performance, com conforto e durabilidade para treinos, jogos e uso casual."
